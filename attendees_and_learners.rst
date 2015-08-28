@@ -9,7 +9,6 @@ Workshops
 =========
 DjangoGirls in Portland, 27th August 2015
 ------------------------------------------
-Natalie Hansen
 
 
 
