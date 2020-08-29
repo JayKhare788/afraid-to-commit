@@ -364,4 +364,4 @@ I followed the tutorial online
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
 * Jay
-* inside trace
+should reflect in trace branch based on Jay branch
