@@ -364,3 +364,4 @@ I followed the tutorial online
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
 * Jay in branch FCI331J based on master branch
+*check if only added changes are commited
